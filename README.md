@@ -50,11 +50,12 @@ Commercial use is prohibited without explicit permission.
 
 Academic citation of this repository or its core ideas is required for any derived discussion or work.
 
-Support
-This theory was developed under significant independent effort. If this framework provides value to your research or thought, consider supporting its continuation.
+Support & Intellectual Recognition
+This research was born from the intersection of existential pressure and physical deduction. If these insights provide value to your work or understanding of the mind, you are invited to support the author's continued independence.
 
-Sponsorship: The author accepts direct support as a recognition of intellectual labor (details available upon request).
+Direct Support: To maintain the author’s intellectual sovereignty and survival under extreme research conditions, financial support is welcomed. Please contact the author for secure transfer details.
 
+Consultation & AGI Strategy: For deep-dive discussions on applying IIM to AI architectures or cognitive systems.
 Contact: yuqinghong2002@gmail.com     +86 18033660513
 
 On CPT: The Companion Framework
